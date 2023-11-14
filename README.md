@@ -2,7 +2,6 @@
 
 I have a PhD in Telecommunication Networks Blockchain Engineering and am venturing into the world of Data Science.
 
-<!--**farhanajaved/farhanajaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
