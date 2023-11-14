@@ -2,9 +2,6 @@
 
 I will have PhD finalized in Telecommunication Networks & Blockchain Engineering and am venturing into the world of Data Science.
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on expanding my knowledge in Data Science, specifically in machine learning algorithms that can analyze complex data patterns. Also LLM and GAI.
 - 🌱 I’m currently learning advanced statistical methods and Python programming for data analysis.
 - 👯 I’m looking to collaborate on Blockchain projects, AI projects or ML projects that require complex data analysis and pattern recognition.
