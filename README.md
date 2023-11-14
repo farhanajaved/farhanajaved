@@ -1,6 +1,6 @@
-### Hi there 👋 I am Farhana Javed, PhD.
+### Hi there 👋 I am Farhana Javed, PhD (finishing in 2024).
 
-I have a PhD in Telecommunication Networks Blockchain Engineering and am venturing into the world of Data Science.
+I will have PhD finalized in Telecommunication Networks & Blockchain Engineering and am venturing into the world of Data Science.
 
 
 Here are some ideas to get you started:
