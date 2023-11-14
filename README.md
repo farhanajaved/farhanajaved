@@ -9,6 +9,6 @@ I will have PhD finalized in Telecommunication Networks & Blockchain Engineering
 - 💬 Ask me about my journey from a PhD in Telecommunication Networks to Blockchain Engineering and now to Data Science.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/farhana-javed/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: When I'm not crunching data or reading research papers, I enjoy learning about finance and investments, exploring business trends, and staying updated with the latest in tech.
+- ⚡ Fun fact: When I'm not crunching data or reading research papers, I enjoy learning about finance and investments, exploring business trends, Product Management (BI + DA +PM) and staying updated with the latest in tech.
 
 Feel free to reach out if you're interested in discussing innovative technologies or if you think we could work together on a project!
