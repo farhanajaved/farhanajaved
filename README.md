@@ -2,7 +2,7 @@
 
 I am pursuing PhD in Telecommunication Networks & Blockchain Engineering in 2024 and am venturing into the world of Data Science/ML and AI.
 
-- 🔭 I’m currently working on expanding my knowledge in machine learning algorithms that can analyze complex data patterns. Also LLM and GAI.
+- 🔭 I’m currently working on expanding my knowledge in Blockchain upcoming projects (ZKP, DIDs, and NFTs). Also on the side machine learning algorithms that can analyze complex data patterns. Also LLM and GAI.
 - 🌱 I’m currently learning advanced statistical methods and Python and R programming for data analysis.
 - 👯 I’m looking to collaborate on Blockchain projects, AI projects or ML projects that require complex data analysis and pattern recognition.
 - 🤔 I’m looking for help with understanding the latest trends in AI and NN.
