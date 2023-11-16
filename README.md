@@ -1,6 +1,6 @@
-### Hi there 👋 I am Farhana Javed (future PhD in Telecommunications Networks and Blockchain/Web3).
+### Hi there 👋 I am Farhana Javed
 
-I will have my PhD finalized in Telecommunication Networks & Blockchain Engineering in 2024 and am venturing into the world of Data Science/ML and AI.
+I am pursuing PhD in Telecommunication Networks & Blockchain Engineering in 2024 and am venturing into the world of Data Science/ML and AI.
 
 - 🔭 I’m currently working on expanding my knowledge in machine learning algorithms that can analyze complex data patterns. Also LLM and GAI.
 - 🌱 I’m currently learning advanced statistical methods and Python and R programming for data analysis.
